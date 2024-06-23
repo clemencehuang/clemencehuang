@@ -1,6 +1,12 @@
 ## Profile
 
-### New coding enthusiast with a creative background, currently learning Python and Django on a full-stack bootcamp. I have a keen eye for detail and logic but also love meandering and looking sideways.
+### New coding enthusiast with a creative background, currently learning Python and Django on a full-stack bootcamp. 
+
+### I have a keen eye for detail and logic but also love meandering and looking sideways.
+
+&nbsp;
+***
+&nbsp;
 
 **Programming Languages**  
 ![ HTML5 ](https://img.shields.io/badge/HTML5-html5?logo=html5&logoColor=white&labelColor=002fa7&color=002fa7) ![ CSS3 ](https://img.shields.io/badge/CSS3-css3?logo=css3&logoColor=white&labelColor=002fa7&color=002fa7) ![ JavaScript ](https://img.shields.io/badge/JavaScript-javascript?logo=javascript&logoColor=white&labelColor=002fa7&color=002fa7) ![ Python ](https://img.shields.io/badge/Python-python?logo=python&logoColor=white&labelColor=002fa7&color=002fa7)  
@@ -16,6 +22,10 @@
 
 **Wireframes**  
 ![ Figma ](https://img.shields.io/badge/Figma-figma?logo=figma&logoColor=white&labelColor=002fa7&color=002fa7)  
+
+&nbsp;
+***
+&nbsp;
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=002fa7)
 
