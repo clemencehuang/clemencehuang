@@ -17,7 +17,10 @@
 **Wireframes**  
 ![ Figma ](https://img.shields.io/badge/Figma-figma?logo=figma&logoColor=white&labelColor=%234b034b&color=black)  
 
+![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
+
 <!--
+
 **Databases**  
 ![ Supabase ](https://img.shields.io/badge/Supabase-supabase?logo=supabase&logoColor=white&labelColor=%234b034b&color=black) ![ PostgreSQL ](https://img.shields.io/badge/PostgreSQL-postgresql?logo=postgresql&logoColor=white&labelColor=%234b034b&color=black) ![ MySQL ](https://img.shields.io/badge/MySQL-mysql?logo=mysql&logoColor=white&labelColor=%234b034b&color=black) ![ MongoDB ](https://img.shields.io/badge/MongoDB-mongodb?logo=mongodb&logoColor=white&labelColor=%234b034b&color=black)  
 
