@@ -3,21 +3,21 @@
 ### New coding enthusiast with a creative background, currently learning Python and Django on a full-stack bootcamp. I have a keen eye for detail and logic but also love meandering and looking sideways.
 
 **Programming Languages**  
-![ HTML5 ](https://img.shields.io/badge/HTML5-html5?logo=html5&logoColor=white&labelColor=%234b034b&color=black) ![ CSS3 ](https://img.shields.io/badge/CSS3-css3?logo=css3&logoColor=white&labelColor=%234b034b&color=black) ![ JavaScript ](https://img.shields.io/badge/JavaScript-javascript?logo=javascript&logoColor=white&labelColor=%234b034b&color=black) ![ Python ](https://img.shields.io/badge/Python-python?logo=python&logoColor=white&labelColor=%234b034b&color=black)  
+![ HTML5 ](https://img.shields.io/badge/HTML5-html5?logo=html5&logoColor=white&labelColor=002fa7&color=002fa7) ![ CSS3 ](https://img.shields.io/badge/CSS3-css3?logo=css3&logoColor=white&labelColor=002fa7&color=002fa7) ![ JavaScript ](https://img.shields.io/badge/JavaScript-javascript?logo=javascript&logoColor=white&labelColor=002fa7&color=002fa7) ![ Python ](https://img.shields.io/badge/Python-python?logo=python&logoColor=white&labelColor=002fa7&color=002fa7)  
 
 **Libraries &amp; Frameworks**  
-![ Django ](https://img.shields.io/badge/Django-django?logo=django&logoColor=white&labelColor=%234b034b&color=black) ![ Font Awesome ](https://img.shields.io/badge/FontAwesome-fontawesome?logo=fontawesome&logoColor=white&labelColor=%234b034b&color=black)
+![ Django ](https://img.shields.io/badge/Django-django?logo=django&logoColor=white&labelColor=002fa7&color=002fa7) ![ Font Awesome ](https://img.shields.io/badge/FontAwesome-fontawesome?logo=fontawesome&logoColor=white&labelColor=002fa7&color=002fa7)
 
 **Version Control &amp; IDEs**  
-![ GitHub ](https://img.shields.io/badge/GitHub-github?logo=github&logoColor=white&labelColor=%234b034b&color=black) ![ Git ](https://img.shields.io/badge/Git-git?logo=git&logoColor=white&labelColor=%234b034b&color=black) ![ Gitpod ](https://img.shields.io/badge/Gitpod-gitpod?logo=gitpod&logoColor=white&labelColor=%234b034b&color=black) ![ Visual Studio Code ](https://img.shields.io/badge/VisualStudioCode-visualstudiocode?logo=visualstudiocode&logoColor=white&labelColor=%234b034b&color=black)  
+![ GitHub ](https://img.shields.io/badge/GitHub-github?logo=github&logoColor=white&labelColor=002fa7&color=002fa7) ![ Git ](https://img.shields.io/badge/Git-git?logo=git&logoColor=white&labelColor=002fa7&color=002fa7) ![ Gitpod ](https://img.shields.io/badge/Gitpod-gitpod?logo=gitpod&logoColor=white&labelColor=002fa7&color=002fa7) ![ Visual Studio Code ](https://img.shields.io/badge/VisualStudioCode-visualstudiocode?logo=visualstudiocode&logoColor=white&labelColor=002fa7&color=002fa7)  
 
 **Hosting**  
-![ Heroku ](https://img.shields.io/badge/Heroku-heroku?logo=heroku&logoColor=white&labelColor=%234b034b&color=black)
+![ Heroku ](https://img.shields.io/badge/Heroku-heroku?logo=heroku&logoColor=white&labelColor=002fa7&color=002fa7)
 
 **Wireframes**  
-![ Figma ](https://img.shields.io/badge/Figma-figma?logo=figma&logoColor=white&labelColor=%234b034b&color=black)  
+![ Figma ](https://img.shields.io/badge/Figma-figma?logo=figma&logoColor=white&labelColor=002fa7&color=002fa7)  
 
-![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
+![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=002fa7)
 
 <!--
 
